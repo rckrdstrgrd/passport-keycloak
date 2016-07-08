@@ -1,0 +1,15 @@
+{
+  "name": "passport-keycloak",
+  "version": "1.0.0",
+  "description": "Passport strategy for Keycloak",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rickard Östergård",
+  "license": "MIT",
+  "dependencies": {
+    "keycloak-auth-utils": "keycloak/keycloak-nodejs-auth-utils",
+    "uuid": "^2.0.2"
+  }
+}
